@@ -1,0 +1,3 @@
+Folder sử dụng git gọi là 'repository' 
+luu  dùng lệnh 'commit'. 
+load lại đấy gọi là 'revert'
